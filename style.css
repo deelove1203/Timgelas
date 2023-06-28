@@ -254,6 +254,9 @@ hr{
     .single-service:hover .service-desc{
         bottom: 25% !important;
     }
+    .overlay{
+        cursor: cell;
+    }
 }
 .columns{
     display: flex;
